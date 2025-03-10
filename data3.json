@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 7,
+    "title" : "르무통 클래식 핑크",
+    "content" : "Born in Seoul",
+    "price" : 140000
+  },
+  {
+    "id" : 8,
+    "title" : "르무통 클래식 화이트",
+    "content" : "Born in Busan",
+    "price" : 140000
+  },
+  {
+    "id" : 9,
+    "title" : "르므통 클래식 그레이",
+    "content" : "Born in Daejeon",
+    "price" : 140000
+  }
+]
