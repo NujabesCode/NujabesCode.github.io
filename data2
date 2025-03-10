@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 3,
+    "title" : "르무통 왈라비 레드",
+    "content" : "Born in Rusia",
+    "price" : 120000
+  },
+  {
+    "id" : 4,
+    "title" : "르무통 왈라비 블랙",
+    "content" : "Born in Japan",
+    "price" : 120000
+  },
+  {
+    "id" : 5,
+    "title" : "르무통 왈라비 베이지",
+    "content" : "Born in France",
+    "price" : 120000
+  }
+]
